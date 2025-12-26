@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=F96E5B&height=120&section=header&text=Hi%20👋,%20I'm%20Kvs%20Nikhil&fontSize=40&animation=fadeIn&fontAlignY=32&desc=Enthusiastic%20Full%20Stack%20Developer&descAlignY=72&descAlign=50" />
 </div>
 
+<br />
+
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=ascarislumbr007&label=Profile%20views&color=F96E5B&style=flat" alt="ascarislumbr007" />
 </div>
@@ -14,52 +16,21 @@
 - 🌱 I’m currently upskilling in **Full Stack Development**.
 - 🤖 I have a strong interest in **Front End, Back End & AI Models**.
 - 📄 **Know My Experience:** [View My Resume](https://drive.google.com/file/d/1avdmmPJSoBVfjPsBcXQzFtC8rUN_0ARN/view?usp=sharing)
-- 📫 **Contact:** kvsnikhil01@gmail.com
+- 📫 **Reach out to me:** kvsnikhil01@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<h3 align="left">💻 Programming Languages</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
-</div>
+| 💻 Languages | ⚛️ Frameworks | 🤖 AI / ML |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java,python,js" /> | <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> |
 
-<h3 align="left">⚛️ Frameworks</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</div>
-
-<h3 align="left">🤖 AI / ML Technologies</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</div>
-
-<h3 align="left">🗄️ Databases</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</div>
-
-<h3 align="left">🔧 Tools</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
-</div>
+| 🗄️ Databases | 🔧 Tools |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=mysql,firebase" /> | <img src="https://skillicons.dev/icons?i=git,vscode" /> |
 
 <br />
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascarislumbr007&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascarislumbr007&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ascarislumbr007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
